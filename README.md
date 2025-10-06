@@ -75,7 +75,7 @@ El programa maneja correctamente el caso de un **único símbolo distinto** asig
 
 ## Video de Sustentación
 
-**Link:** [https://youtu.be/LINK_DEL_VIDEO](https://youtu.be/LINK_DEL_VIDEO)
+**Link:** [https://youtu.be/ZgCt3qlvYBs?feature=shared](https://youtu.be/ZgCt3qlvYBs?feature=shared)
 
 El video incluye:
 - Presentación del equipo

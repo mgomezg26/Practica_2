@@ -87,4 +87,3 @@ El video incluye:
 ## Referencias
 
 - Huffman, D. A. (1952). "A Method for the Construction of Minimum-Redundancy Codes"
-- Documentación oficial de C++ STL: https://en.cppreference.com/
